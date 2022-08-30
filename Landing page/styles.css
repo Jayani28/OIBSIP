@@ -1,0 +1,148 @@
+body{
+  margin: 0px;
+}
+
+.logo{
+  background-color: white;
+  border-radius: 33%;
+  width:40px;
+  height: 40px;
+  box-shadow: none;
+  margin: 20px;
+}
+.logo:hover{
+  transform: scale(1.4,1.4);
+  transition-duration: 0.5s;
+}
+.mmlogo{
+  height: 300px;
+  width: 400px;
+}
+.mm_nobg{
+  height: 110px;
+  width: 140px;
+  position: relative;
+  left: 70px;
+}
+nav{
+  box-shadow: 0 0 10px 7px #822659;
+  height: 120px;
+}
+.navbuttons{
+  position: relative;
+  left: 800px;
+  bottom: 37px;
+}
+.navbutton{
+  color: #822659;
+  border: 0px;
+  background-color: white;
+  font-size: 20px;
+  margin: 15px;
+}
+.navbutton:hover{
+  color: white;
+  background-color: #B34180;
+  border-radius: 5px;
+  padding: 9px;
+  padding-left: 11px;
+}
+.pic1{
+  width: 500px;
+  height: 500px;
+}
+.pic2{
+  width: 350px;
+  height: 350px;
+}
+.copy{
+  padding-bottom: 7px;
+}
+h2{
+  padding-top: 16px;
+  color:white;
+}
+h3{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color:#7F8487;
+}
+.asd,.navbuttons{
+  display: inline-block;
+}
+.div3{
+  color: linear-gradient(white,#F8A1D1);
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  width: 10%;
+  border-color: #822659;
+  border-width: 10px;
+
+}
+#mm{
+  position: relative;
+  bottom:0px;
+  left: 180px;
+  text-align: center;
+}
+#about{
+  position: relative;
+  left: 300px;
+  bottom:180px;
+  text-align: justify;
+}
+#pic1{
+  position: relative;
+  left: 180px;
+  top:50px;
+}
+#pic2{
+  position: relative;
+  left: 120px;
+}
+#pic3{
+  position: relative;
+  left: 50px;
+}
+#pic4{
+  position: relative;
+  left: 300px;
+  border-radius: 50%;
+}
+.book{
+  color:#822659;
+  box-shadow: 0 0 2px 3px #822659;
+  background-color: white;
+  border-radius: 20px;
+  height:40px;
+  width: 150px;
+  border: 0px;
+  font-size: 15px;
+}
+.book:hover{
+  background-color: #822659;
+  color:white;
+}
+.smile{
+  position: relative;
+  left: 170px;
+  bottom:150px;
+}
+button{
+  cursor: pointer;
+}
+footer{
+  padding-top: 30px;
+  padding-bottom: 35px;
+  background-color: #383838;
+  font-family: sans-serif;
+}
+
+h1,span{
+  font-family: 'Aboreto','Hind Vadodara', sans-serif;
+}
+h1{
+  font-size: 25px;
+}
